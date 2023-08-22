@@ -1,0 +1,142 @@
+ .u-section-1 {
+  background-image: url("images/c943cd2387f29be5ac58938282b676fd76fbaf3141898828057db68d0286db2b35093c65a941db8baf44df833c1478d14df63bdc353e6bab8fcf9c_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 843px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 620px;
+  min-height: 843px;
+  margin: 2px 248px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 22px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 2.25rem;
+  margin: 72px auto 0 161px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: normal;
+  margin: 0 32px 0 20px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 49px;
+  min-height: 16px;
+  width: 49px;
+  min-width: 16px;
+  margin: 23px 198px 0 auto;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-social-icons-2 {
+  height: 48px;
+  min-height: 16px;
+  width: 48px;
+  min-width: 16px;
+  margin: -49px auto 0 190px;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 697px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 678px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 133px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 265px;
+  }
+
+  .u-section-1 .u-social-icons-2 {
+    margin-top: -263px;
+    margin-left: 166px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 720px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 2px 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.0625rem;
+    width: auto;
+    margin-top: 124px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 13px;
+    margin-right: 2px;
+    margin-left: -2px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 43px;
+    width: 43px;
+    margin-top: 46px;
+    margin-right: 99px;
+  }
+
+  .u-section-1 .u-social-icons-2 {
+    height: 40px;
+    width: 40px;
+    margin-top: -42px;
+    margin-left: 103px;
+  }
+}
